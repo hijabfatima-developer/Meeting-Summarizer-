@@ -184,14 +184,6 @@ streamlit run app_api.py
 - [ ] Multi-language support and translation
 - [ ] Fully offline mode using local models (Whisper and Ollama)
 
-## 👥 Team & Contributions
-
-| Team member | Role | Contributions |
-|---|---|---|
-| `<Your name>` | `<e.g. Developer>` | `<e.g. Built the Streamlit app, integrated Groq and Gemini APIs, wrote the prompts, deployed the app>` |
-| `<Teammate name>` | `<Role>` | `<What they built or did>` |
-
-<!-- Add or remove rows to match your team. Be specific about who did what. -->
 
 ## 📦 Submission Links
 
